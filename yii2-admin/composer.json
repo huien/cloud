@@ -1,7 +1,7 @@
 {
     "name": "cloud/yii2-admin",
     "description": "RBAC Auth manager for Yii2 ",
-    "keywords": ["yii", "admin", "auth", "rbac", "yii2-admin", "izyue"],
+    "keywords": ["yii", "admin", "auth", "rbac", "yii2-admin", "cloud"],
     "license": "BSD-3-Clause",
     "type": "yii2-extension",
     "authors": [
@@ -11,8 +11,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/liulipeng/yii2-admin/issues",
-        "source": "https://github.com/liulipeng/yii2-admin"
+        "issues": "https://github.com/huien/cloud/issues",
+        "source": "https://github.com/huien/cloud/tree/master/yii2-admin"
     },
     "minimum-stability": "stable",
     "require": {
