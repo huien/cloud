@@ -1,5 +1,5 @@
 {
-    "name": "cloud/yii2-admin",
+    "name": "clouds/yii2-admin",
     "description": "RBAC Auth manager for Yii2 ",
     "keywords": ["yii", "admin", "auth", "rbac", "yii2-admin", "cloud"],
     "license": "BSD-3-Clause",
