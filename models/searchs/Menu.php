@@ -5,10 +5,10 @@ namespace cloud\admin\models\searchs;
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use izyue\admin\models\Menu as MenuModel;
+use cloud\admin\models\Menu as MenuModel;
 
 /**
- * Menu represents the model behind the search form about [[\izyue\admin\models\Menu]].
+ * Menu represents the model behind the search form about [[\cloud\admin\models\Menu]].
  * 
  * @author Misbahul D Munir <misbahuldmunir@gmail.com>
  * @since 1.0

@@ -3,7 +3,7 @@
 namespace cloud\admin\models;
 
 use Yii;
-use izyue\admin\components\Configs;
+use cloud\admin\components\Configs;
 
 /**
  * This is the model class for table "menu".

@@ -1,6 +1,6 @@
 <?php
 /**
- * Message translations for \izyue\yii2-admin.
+ * Message translations for \cloud\yii2-admin.
  *
  * It contains the localizable messages extracted from source code.
  * You may modify this file by translating the extracted messages.

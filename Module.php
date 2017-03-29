@@ -15,7 +15,7 @@ use yii\helpers\Inflector;
  * 'layout' => 'left-menu', // default to null mean use application layout.
  * 'controllerMap' => [
  *     'assignment' => [
- *         'class' => 'izyue\admin\controllers\AssignmentController',
+ *         'class' => 'cloud\admin\controllers\AssignmentController',
  *         'userClassName' => 'app\models\User',
  *         'idField' => 'id'
  *     ]

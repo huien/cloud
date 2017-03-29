@@ -5,8 +5,8 @@ namespace cloud\admin\models\searchs;
 use Yii;
 use yii\base\Model;
 use yii\data\ArrayDataProvider;
-use izyue\admin\models\BizRule as MBizRule;
-use izyue\admin\components\RouteRule;
+use cloud\admin\models\BizRule as MBizRule;
+use cloud\admin\components\RouteRule;
 
 /**
  * Description of BizRule

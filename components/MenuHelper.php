@@ -12,7 +12,7 @@ use yii\helpers\ArrayHelper;
  * Usage
  * 
  * ~~~
- * use izyue\admin\components\MenuHelper;
+ * use cloud\admin\components\MenuHelper;
  * use yii\bootstrap\Nav;
  *
  * echo Nav::widget([

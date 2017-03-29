@@ -4,7 +4,7 @@ namespace cloud\admin\models;
 
 
 use yii;
-use izyue\admin\components\Configs;
+use cloud\admin\components\Configs;
 use yii\base\Action;
 use yii\db\ActiveRecord;
 
